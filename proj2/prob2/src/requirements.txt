@@ -1,0 +1,2 @@
+1. java source code ParkingSemaphore
+2. pdf or txt document file containing 2 examples of execution results

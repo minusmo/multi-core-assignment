@@ -1,0 +1,14 @@
+3-1. Need to study and summarize following classes that are important and useful for concurrent programming in java.
+You need to do write and submit a document report in pdf format including following things.
+
+1-a. explain the interface/class BlockingQueue and ArrayBlockingQueue with your own english sentences.
+1-b. create and include(in your document) your own example of multithreaded java code(ex1.java) that is simple and executable.
+Should implement put() and take() methods. Also include example execution results(outputs) in your documents.
+2-a. Do samething as 1-a for ReadWriteLock
+2-b. Do samething as 1-b for lock(), unlock(), readLock(), writeLock() of ReadWriteLock(ex2.java)
+3-a. Do samething as 1-a for AtomicInteger
+3-b. Do samething as 1-b for get(), set(), getAndAdd(), and addAndGet() for AtomicInteger(ex3.java)
+4-a. Do samething as 1-a for CyclicBarrier
+4-b. Do samethign as 1-b for await() of CyclicBarrier(ex4.java)
+
+3-2. Submit source file ex1.java, ex2.java, ex3.java, ex4.java as well as the documnet described above.
