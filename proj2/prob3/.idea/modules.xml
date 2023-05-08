@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/atomicinteger/atomicinteger.iml" filepath="$PROJECT_DIR$/atomicinteger/atomicinteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/blockingqueue/blockingqueue.iml" filepath="$PROJECT_DIR$/blockingqueue/blockingqueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cyclicbarrier/cyclicbarrier.iml" filepath="$PROJECT_DIR$/cyclicbarrier/cyclicbarrier.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/prob3.iml" filepath="$PROJECT_DIR$/.idea/prob3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/readwritelock/readwritelock.iml" filepath="$PROJECT_DIR$/readwritelock/readwritelock.iml" />
     </modules>
   </component>
 </project>
